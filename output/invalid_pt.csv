@@ -1,0 +1,4 @@
+Sequence,Producer ID,Producer Type,Waste type,Packaging Category,Material Type,Material Sub-Type,From (country in UK),To (country in UK),Quantity (kg),Quantity (units)
+1,B1234,BO,DC,P1,OT,1,EN,NI,1234,
+2,B1234,BO,DC,P1,OT,1,EN,NI,1234,
+3,B1234,BO,DC,P1,OT,1,EN,NI,1234,
